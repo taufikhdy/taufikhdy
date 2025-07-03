@@ -2,6 +2,8 @@
 
 <h1 align="center"> Rone Wanderer - the digital craftsman 🔥 ! </h1>
 
+## hello, my name is Taufik Hidayat, lets play game !
+
 ## 📜Craftsman Lore
 
 ⚒️ *"In a quiet corner of the village forge, beneath starlit skies and humming code,*
@@ -35,10 +37,13 @@
 
 <pre>🎯 Motivation  : "Dicipline leads to habits, Habits leads to consistency, Consistency leads to growth</pre>
 
+## 📊Stat Bar
+
+<pre>🎨 Design Skill    : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br> 🧠 Problem Solving  : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br> ⚒️ Build Dicipline     : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br> 📚 Will to Learn     : ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (100%)</pre>
 
 <div align="right">
 
-*👴 old blacksmith:*
+👴 *old blacksmith:*
 *"Aye, you lookin' for the Wanderer?"* <br>
 *Last I heard, he was crafting pages with fierce focus -* <br>
 *but he left a sign near the forge...*
