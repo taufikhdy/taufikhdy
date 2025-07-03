@@ -8,14 +8,13 @@
 
 ![](https://komarev.com/ghpvc/?username=taufikhdy&label=Profile%20views&color=6495ED&style=flat)
 
-<table border="0">
-    <tr>
-    <td>
-    <p>🌟Studied at <strong>SMKS Al-Ittihad</strong>, and started the journey from learning basic web and graphic design for beginners.
-Now focusing on working on simple projects, as part of the learning process. </p>
-    </td>
-    <td>
-    <img src="blacksmith.jpeg" alt="'in progresss...'" width="100%">
-    </td>
-    </tr>
-</table>
+<div>
+<p>🌟Studied at <strong>SMKS Al-Ittihad</strong>, and started the journey from learning basic web and graphic design for beginners. Now focusing on working on simple projects, as part of the learning process. 
+
+<img src="blacksmith.jpeg" alt="'in progresss...'" width="100%">
+</p>
+
+<p align="right">follow me on: <br>
+[![follow me on instagram](https://img.shields.io/badge/follow%20my%20instagram-bc2a8d?style=for-the-badge)](https://www.instagram.com/tauwfiik?igsh=MTJ4bnJzcHBmYWtwaA==)
+</p>
+</div>
