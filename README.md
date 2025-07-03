@@ -2,10 +2,7 @@
 
 # <p align="center"> Rone Wanderer Here 🔥 ! </p>
 
-<hr>
 
 ## <p align="center"> abdi 🙏 Taufik Hidayat </p>
-
-<hr>
 
 ## 💫tentang abdi
