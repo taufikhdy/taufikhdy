@@ -16,6 +16,6 @@
 
 <p align="right">
     <a href="https://www.instagram.com/tauwfiik?igsh=MTJ4bnJzcHBmYWtwaA==">
-    <img src="https://img.shields.io/badge/follow%20my%20instagram-bc2a8d?style=for-the-badge">
+    <img src="https://img.shields.io/badge/follow%20my%20Instagram-FF0069?style=for-the-badge&logo=instagram">
 </p>
 </div>
