@@ -29,7 +29,7 @@
 
 <pre>📍 Origin      : SMKS Al-Ittihad, Village of Curiosity</pre>
 
-<pre>🧰 Forge       : HTML • CSS • JS • PHP • Figma • Canva</pre>
+<pre>🧰 Forge       : <img src="https://img.shields.io/badge/with%20a%20logo-E34F26?style=for-the-badge&logo=html5"><img src="https://img.shields.io/badge/with%20a%20logo-663399?style=for-the-badge&logo=css"><img src="https://img.shields.io/badge/with%20a%20logo-F7DF1E?style=for-the-badge&logo=javascript"><img src="https://img.shields.io/badge/with%20a%20logo-777BB4?style=for-the-badge&logo=php"><img src="https://img.shields.io/badge/with%20a%20logo-FF2D20?style=for-the-badge&logo=laravel"><img src="https://img.shields.io/badge/with%20a%20logo-F24E1E?style=for-the-badge&logo=figma"><img src="https://img.shields.io/badge/with%20a%20logo-00C4CC?style=for-the-badge&logo=canva"></pre>
 
 <pre>🧱 Materials   : Pixels, Fonts, Layouts, Patience</pre>
 
@@ -39,7 +39,7 @@
 
 ## 📊Stat Bar
 
-<pre>🎨 Design Skill    : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>🧠 Problem Solving  : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>⚒️ Build Dicipline    : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>📚 Will to Learn   : ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (100%)</pre>
+<pre>🎨 Design Skill    : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>🧠 Problem Solving : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>⚒️ Build Dicipline: ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>📚 Will to Learn   : ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (100%)</pre>
 
 <div align="right">
 
@@ -52,5 +52,8 @@
 
 <p align="right">
     <a href="https://www.instagram.com/tauwfiik?igsh=MTJ4bnJzcHBmYWtwaA==">
-    <img src="https://img.shields.io/badge/follow%20my%20Instagram-FF0069?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Visit%20my%20Instagram-FF0069?style=for-the-badge&logo=instagram" alt="Instagram"/>
+    </a>
+    <a href="https://github.com/taufikhdy">
+    <img src="https://img.shields.io/badge/Visit%20my%20github-181717?style=for-the-badge&logo=github" alt="github"/>
 </p>
