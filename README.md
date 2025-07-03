@@ -29,7 +29,7 @@
 
 <pre>📍 Origin      : SMKS Al-Ittihad, Village of Curiosity</pre>
 
-<p style="text-wrap: wrap">🧰 Forge       : <br> <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/with%20a%20logo-663399?style=for-the-badge&logo=css"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=php"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=laravel"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=canva"></p>
+<p style="text-wrap: wrap">🧰 Forge       : <br><br> <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/with%20a%20logo-663399?style=for-the-badge&logo=css"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=php"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=laravel"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/with%20a%20logo-696969?style=for-the-badge&logo=canva"></p>
 
 <pre>🧱 Materials   : Pixels, Fonts, Layouts, Patience</pre>
 
