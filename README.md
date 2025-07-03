@@ -5,3 +5,7 @@
 <hr>
 
 ## <p align="center"> abdi 🙏 Taufik Hidayat </p>
+
+<hr>
+
+## 💫tentang abdi
