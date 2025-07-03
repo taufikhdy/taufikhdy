@@ -2,9 +2,9 @@
 
 <h1 align="center"> Rone Wanderer Here 🔥 ! </h1>
 
-<h1 align="center"> abdi Taufik Hidayat 🔥 ! </h1>
+<h2 align="center"> I am Taufik Hidayat 🔥 ! </h2>
 
-## 💫tentang abdi
+## 💫About Me
 
 ![](https://komarev.com/ghpvc/?username=taufikhdy&label=Profile%20views&color=6495ED&style=flat)
 
