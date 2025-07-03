@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Visit%20my%20github-181717?style=for-the-badge&logo=github" alt="github"/>
 </p>
 
-<img src="end.jpeg" alt="'rest for heal, dont forget to eat'" height="60%" />
+<img src="end.jpeg" alt="'rest for heal, dont forget to eat'" height="40%" />
 
 🏕️ *“Real magic? It’s not in spells or swords -*
 
