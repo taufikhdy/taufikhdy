@@ -36,7 +36,13 @@
 <pre>🎯 Motivation  : "Dicipline leads to habits, Habits leads to consistency, Consistency leads to growth</pre>
 
 
-<p align="right"><strong>🌞 Let’s connect and grow together:</strong></p>
+<p align="right"><strong>*👴 old blacksmith:*</strong>
+
+*"Aye, you lookin' for the Wanderer?"* <br>
+*Last I heard, he was crafting pages with fierce focus -* <br>
+*but he left a sign near the forge...*
+
+</p>
 
 <p align="right">
     <a href="https://www.instagram.com/tauwfiik?igsh=MTJ4bnJzcHBmYWtwaA==">
