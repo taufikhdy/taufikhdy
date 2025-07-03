@@ -3,6 +3,8 @@
 # <p align="center"> Rone Wanderer Here 🔥 ! </p>
 
 
-## <p align="center"> abdi 🙏 Taufik Hidayat </p>
+## abdi 🙏 Taufik Hidayat
 
 ## 💫tentang abdi
+
+![](https://komarev.com/ghpvc/?username=taufikhdy&label=Profile%20views&color=cornflowerblue&style=plastic)
