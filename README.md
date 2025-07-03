@@ -7,4 +7,4 @@
 
 ## 💫tentang abdi
 
-![](https://komarev.com/ghpvc/?username=taufikhdy&label=Profile%20views&color=6495ED&style=plastic)
+![](https://komarev.com/ghpvc/?username=taufikhdy&label=Profile%20views&color=6495ED&style=flat)
