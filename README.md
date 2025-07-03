@@ -60,6 +60,7 @@
     <img src="https://img.shields.io/badge/Visit%20my%20github-181717?style=for-the-badge&logo=github" alt="github"/>
 </p>
 
+<div>
 <img src="end.jpeg" alt="'rest for heal, dont forget to eat'" height="40%" />
 
 🏕️ *“Real magic? It’s not in spells or swords -*
@@ -67,3 +68,4 @@
 *it’s in careful work, done daily, even when no one sees it.*
 
 *And that’s the mark of a true craftsman."*
+</div>
