@@ -2,21 +2,20 @@
 
 <h1 align="center"> Rone Wanderer - the digital craftsman 🔥 ! </h1>
 
-⚒️ *"In a quiet corner of the village forge, beneath starlit skies and humming code,
+⚒️ *"In a quiet corner of the village forge, beneath starlit skies and humming code,*
 
-a young builder named Rone Wanderer first touched the ember of creation.
+*a young builder named Rone Wanderer first touched the ember of creation.*
 
-not born of prophecy, but of patience - he crafted buttons, laid grids, and bent pixels to his will.
+*not born of prophecy, but of patience - he crafted buttons, laid grids, and bent pixels to his will.*
 
-No sword to swing. No spell to cast. Only a worn-out keyboard, a glowing screen,
+*No sword to swing. No spell to cast. Only a worn-out keyboard, a glowing screen,*
 
-and the will to make something real in the realm of the unreal."*
+*and the will to make something real in the realm of the unreal."*
 
 ## 💫Character Lore
 
 ![](https://komarev.com/ghpvc/?username=taufikhdy&label=Profile%20views&color=6495ED&style=flat)
 
-<div>
 <p>🌟Studied at <strong>SMKS Al-Ittihad</strong>, and started the journey from learning basic web and graphic design for beginners. Now focusing on working on simple projects, as part of the learning process.</p>
 
 <pre>🎮 Class       : Codewright (Crafter of UI & Frond-End Logic)</pre>
@@ -38,4 +37,3 @@ and the will to make something real in the realm of the unreal."*
     <a href="https://www.instagram.com/tauwfiik?igsh=MTJ4bnJzcHBmYWtwaA==">
     <img src="https://img.shields.io/badge/follow%20my%20Instagram-FF0069?style=for-the-badge&logo=instagram">
 </p>
-</div>s
