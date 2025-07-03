@@ -61,7 +61,7 @@
 </p>
 
 <div>
-<img src="night.jpeg" alt="'rest for heal, dont forget to eat'" height="400px" />
+<img src="night.jpeg" alt="'rest for heal, dont forget to eat'" width="100%" />
 
 🏕️ *“Real magic? It’s not in spells or swords -*
 
