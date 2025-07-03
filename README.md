@@ -29,7 +29,7 @@
 
 <pre>📍 Origin      : SMKS Al-Ittihad, Village of Curiosity</pre>
 
-<div>🧰 Forge       : <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css"> <img src="https://img.shields.io/badge/Javascript-696969?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/PHP-696969?style=for-the-badge&logo=php"> <img src="https://img.shields.io/badge/Laravel-696969?style=for-the-badge&logo=laravel"> <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/Canva-696969?style=for-the-badge&logo=canva"></div>
+<p>🧰 Forge       : <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css"> <img src="https://img.shields.io/badge/Javascript-696969?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/PHP-696969?style=for-the-badge&logo=php"> <img src="https://img.shields.io/badge/Laravel-696969?style=for-the-badge&logo=laravel"> <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/Canva-696969?style=for-the-badge&logo=canva"></p>
 
 <pre>🧱 Materials   : Pixels, Fonts, Layouts, Patience</pre>
 
