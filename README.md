@@ -2,6 +2,8 @@
 
 <h1 align="center"> Rone Wanderer - the digital craftsman 🔥 ! </h1>
 
+## 📜Craftsman Lore
+
 ⚒️ *"In a quiet corner of the village forge, beneath starlit skies and humming code,*
 
 *a young builder named Rone Wanderer first touched the ember of creation.*
@@ -12,11 +14,14 @@
 
 *and the will to make something real in the realm of the unreal."*
 
+
 ## 💫Character Lore
 
 ![](https://komarev.com/ghpvc/?username=taufikhdy&label=Profile%20views&color=6495ED&style=flat)
 
 <p>🌟Studied at <strong>SMKS Al-Ittihad</strong>, and started the journey from learning basic web and graphic design for beginners. Now focusing on working on simple projects, as part of the learning process.</p>
+
+## 📌Character Sheetss
 
 <pre>🎮 Class       : Codewright (Crafter of UI & Frond-End Logic)</pre>
 
