@@ -1,0 +1,1 @@
+!["Checkpoint reached. Resting under the stars before the next quest."](image.jpeg)
