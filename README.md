@@ -14,7 +14,6 @@
 <img src="blacksmith.jpeg" alt="'in progresss...'" width="100%">
 </p>
 
-<p align="right">follow me on: <br>
-[![follow me on instagram](https://img.shields.io/badge/follow%20my%20instagram-bc2a8d?style=for-the-badge)](https://www.instagram.com/tauwfiik?igsh=MTJ4bnJzcHBmYWtwaA==)
+<p align="right">follow me on: <br> [![follow me on instagram](https://img.shields.io/badge/follow%20my%20instagram-bc2a8d?style=for-the-badge)](https://www.instagram.com/tauwfiik?igsh=MTJ4bnJzcHBmYWtwaA==)
 </p>
 </div>
