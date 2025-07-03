@@ -2,7 +2,7 @@
 
 <h1 align="center"> Rone Wanderer - the digital craftsman 🔥 ! </h1>
 
-## hello, my name is Taufik Hidayat, lets play game !
+<h2 align="center"> hello, my name is Taufik Hidayat, lets play game ! </h2>
 
 ## 📜Craftsman Lore
 
@@ -37,11 +37,11 @@
 
 <pre>🔨 Active Quest: Building <strong>Ngariung</strong> web project & visual design</pre>
 
-<pre>🎯 Motivation  : "Dicipline leads to habits, Habits leads to consistency, Consistency leads to growth</pre>
+<pre>🎯 Motivation  : "Dicipline leads to habits, Habits leads to consistency, Consistency leads to growth 🌱"</pre>
 
 ## 📊Stat Bar
 
-<pre>🎨 Design Skill    : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>🧠 Problem Solving : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>⚒️ Build Dicipline: ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>📚 Will to Learn   : ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (100%)</pre>
+<pre>🎨 Design Skill    : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>🧠 Problem Solving : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>⚒️ Build Dicipline : ⚪⚪⚪⚪⚪⚫⚫⚫⚫⚫ (50%) <br>📚 Will to Learn   : ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (100%)</pre>
 
 <div align="right">
 
@@ -59,3 +59,11 @@
     <a href="https://github.com/taufikhdy">
     <img src="https://img.shields.io/badge/Visit%20my%20github-181717?style=for-the-badge&logo=github" alt="github"/>
 </p>
+
+<img src="end.jpeg" alt="'rest for heal, dont forget to eat'" width="100%" />
+
+🏕️ *“Real magic? It’s not in spells or swords -*
+
+*it’s in careful work, done daily, even when no one sees it.*
+
+*And that’s the mark of a true craftsman."*s
