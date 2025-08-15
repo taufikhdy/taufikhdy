@@ -35,7 +35,7 @@
 
 <pre>🧱 Materials   : Pixels, Fonts, Layouts, Patience</pre>
 
-<pre>🔨 Active Quest: Building <strong>Ngariung</strong> web project & visual design</pre>
+<pre>🔨 Active Quest: Building <strong>Cafe Application</strong> web project & visual design</pre>
 
 <pre>🎯 Motivation  : "Dicipline leads to habits, Habits leads to consistency, Consistency leads to growth 🌱"</pre>
 
