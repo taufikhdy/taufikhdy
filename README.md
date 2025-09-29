@@ -35,7 +35,8 @@
 
 <pre>🧱 Materials   : Pixels, Fonts, Layouts, Patience</pre>
 
-<pre>🔨 Active Quest: Building <strong>Cafe Application</strong> web project & visual design</pre>
+<pre>🔨 Active Quest: Building <strong>Ohayoy Application</strong> a cafe or restaurant management application</pre>
+<pre><a href="https://github.com/taufikhdy/Ohayoy_application">https://github.com/taufikhdy/Ohayoy_application</a></pre>
 
 <pre>🎯 Motivation  : "Dicipline leads to habits, Habits leads to consistency, Consistency leads to growth 🌱"</pre>
 
